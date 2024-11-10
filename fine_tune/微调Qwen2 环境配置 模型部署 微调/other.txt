@@ -1,0 +1,2 @@
+【微调实战】30分钟学会微调大模型，通义千问1.8B大模型微调从0到1，实现天气预报功能，进行结构化信息提取
+https://www.bilibili.com/video/BV11kDpYgEct/?spm_id_from=333.880.my_history.page.click&vd_source=434ae34d9a4020434a0bc82871451d6d 
