@@ -1,1 +1,3 @@
 相关code https://dwexzknzsh8.feishu.cn/docx/VkYud3H0zoDTrrxNX5lce0S4nDh
+
+https://github.com/xueyongfu11/multi-lora-LLM  大模型推理；在线支持不同任务训练的lora推理；支持高并发请求，将请求batch之后推理
