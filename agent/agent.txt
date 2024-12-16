@@ -1,0 +1,6 @@
+https://zhuanlan.zhihu.com/p/695667875  【AI Agent系列】最近爆火的AI Agent究竟是啥？20篇论文全面调研带你了解智能体技术（ReACT、ChatDev、MetaGPT、AutoGen、XAgent、AutoGPT）
+https://zhuanlan.zhihu.com/p/695673036  AI Agent系列一：Agent综述篇
+https://zhuanlan.zhihu.com/p/695667400  AI Agent系列二：Agent基础技术篇（ReACT、ReST、AgentTuning、Reflexion）
+https://zhuanlan.zhihu.com/p/695672066  AI Agent系列三：Agent应用篇（ChatDev-V1、ChatDev-V2、MetaGPT、GITM）
+https://zhuanlan.zhihu.com/p/695672952  AI Agent系列四：Agent框架篇（AutoGen、CAMEL、AutoAgents、XAgent、AgentGPT、AutoGPT）
+https://zhuanlan.zhihu.com/p/695673311 AI Agent系列五：Agent Benchmark篇（AgentBench、AgentBoard、ToolEyes、ToolLLM、TravelPlanner、T-EVAL）
