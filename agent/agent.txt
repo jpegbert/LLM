@@ -4,3 +4,8 @@ https://zhuanlan.zhihu.com/p/695667400  AI Agent系列二：Agent基础技术篇
 https://zhuanlan.zhihu.com/p/695672066  AI Agent系列三：Agent应用篇（ChatDev-V1、ChatDev-V2、MetaGPT、GITM）
 https://zhuanlan.zhihu.com/p/695672952  AI Agent系列四：Agent框架篇（AutoGen、CAMEL、AutoAgents、XAgent、AgentGPT、AutoGPT）
 https://zhuanlan.zhihu.com/p/695673311 AI Agent系列五：Agent Benchmark篇（AgentBench、AgentBoard、ToolEyes、ToolLLM、TravelPlanner、T-EVAL）
+
+https://www.zhihu.com/question/660893507/answer/3624691738 目前适合落地的agent有哪些值得推荐的框架？
+https://zhuanlan.zhihu.com/p/2425550178  深入理解Agent：从0实现function call
+https://zhuanlan.zhihu.com/p/717978798 如何选择AI Agent框架？五种主流AI Agent框架对比
+
